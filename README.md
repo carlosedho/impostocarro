@@ -6,7 +6,7 @@ if (anoCarro < 2000){
             System.out.println("O preço final do carro é de: " + precoFinal);
         }
 
-se não for o caso, ele calcula e dá output do seguinte valor:
+se não for o caso, ele calcula e dá output do seguinte valor como no trecho:
 
 else{
             precoFinal = precoCarro + (precoCarro * 0.015);

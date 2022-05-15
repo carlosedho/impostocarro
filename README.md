@@ -11,5 +11,4 @@ se não for o caso, ele calcula e dá output do seguinte valor:
 else{
             precoFinal = precoCarro + (precoCarro * 0.015);
             System.out.println("O preço final do carro é de: " + precoFinal);
-
-        }
+            }
